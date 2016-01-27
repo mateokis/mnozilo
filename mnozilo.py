@@ -4,5 +4,8 @@ print('3*3=', 3*3)
 for i in range(5):
     print(i)
 
-for i in range(6):
+for j in range(6):
     print(j)
+
+for k in range(9):
+    print(k)
